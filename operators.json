@@ -3,22 +3,22 @@
   "message": "Data retrieve successfully.",
   "data": [
     {
-      operatorName: "Jio TV",
-      logoUrl: "https://img.apksum.com/3f/com.jio.jioplay.tv/6.0.1/icon.png",
-      getChannelListAPI: "",
-      logInRequire: true
+      "operatorName": "Jio TV",
+      "logoUrl": "https://img.apksum.com/3f/com.jio.jioplay.tv/6.0.1/icon.png",
+      "getChannelListAPI": "",
+      "logInRequire": true
     },
     {
-      operatorName: "Airtel TV",
-      logoUrl: "https://img.apksum.com/07/tv.africa.streaming/1.0.9.134/icon.png",
-      getChannelListAPI: "",
-      logInRequire: true
+      "operatorName": "Airtel TV",
+      "logoUrl": "https://img.apksum.com/07/tv.africa.streaming/1.0.9.134/icon.png",
+      "getChannelListAPI": "",
+      "logInRequire": true
     },
     {
-      operatorName: "MX TV",
-      logoUrl: "https://archive.org/download/mx-player-icon/mx-player-icon.png",
-      getChannelListAPI: "",
-      logInRequire: false
+      "operatorName": "MX TV",
+      "logoUrl": "https://archive.org/download/mx-player-icon/mx-player-icon.png",
+      "getChannelListAPI": "",
+      "logInRequire": false
     }
   ]
 }
